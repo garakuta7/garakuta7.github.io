@@ -2,7 +2,7 @@
 
 $(function(){
     $("#myFav").typed({
-      strings: ["LiSA","Wake Up, Girls！", "乃木坂46", "欅坂46"],
+      strings: [ "ひらがなけやき坂46", "欅坂46", "乃木坂46"],
       typeSpeed: 10,
       loop: true,
     });
